@@ -99,7 +99,15 @@
   $response = json_decode($data);
 
   echo "The chinese restaurant close to you are: </br></br>";
+  $i=1;
   foreach($response->businesses as $business):
+  {
+          if ($i > 5)
+		  {
+		    break;
+		  }
+          $i++;
+		  
           //echo "<img border=0 src=".$business->photo_url.'""><br/>";
 		  echo "<a href=\"". $business->mobile_url . "\">";
 		  echo $business->name ."</a><br/>";
