@@ -42,7 +42,8 @@
 // $HTTP_USER_AGENT and $REMOTE_ADDR are two of many evironment
 // variables in PHP.  Environent variables store information about
 // the user's and server's environment
-
+ print("<br>");
+ 
  print("You are using $_SERVER[HTTP_USER_AGENT]<br>");
  print("Your Internet address is $_SERVER[REMOTE_ADDR]<br>");
 
@@ -54,63 +55,62 @@
  $city=$obj->{'city'};
  $state=$obj->{'region'};
  print("You are at $city in $state <br>");
-
+ 
  print("<br>");
- print("<br>");
 
- // // Enter the path that the oauth library is in relation to the php file
- // require_once ('OAuth.php');
+  // Enter the path that the oauth library is in relation to the php file
+  require_once ('OAuth.php');
 
- // // For example, request business with id 'the-waterboy-sacramento'
- // //$unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location=Fremont+California";
- // $unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location="$city"+"$state;
+  // For example, request business with id 'the-waterboy-sacramento'
+  //$unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location=Fremont+California";
+  $unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location="$city"+"$state;
 
  // // Set your keys here
- // $consumer_key = "M44itCk1vYxpqJJL_CmjMg";
- // $consumer_secret = "DRG9GUQiJvlfufXd3p8DlA8zHOA";
- // $token = "_k7AmKTWmBglmPNnLs8xJGNtJBRq4elB";
- // $token_secret = "dwTWziQ2XMMzsJVcAtlpj27CQKI";
+  $consumer_key = "M44itCk1vYxpqJJL_CmjMg";
+  $consumer_secret = "DRG9GUQiJvlfufXd3p8DlA8zHOA";
+  $token = "_k7AmKTWmBglmPNnLs8xJGNtJBRq4elB";
+  $token_secret = "dwTWziQ2XMMzsJVcAtlpj27CQKI";
 
- // // Token object built using the OAuth library
- // $token = new OAuthToken($token, $token_secret);
+  // Token object built using the OAuth library
+  $token = new OAuthToken($token, $token_secret);
 
- // // Consumer object built using the OAuth library
- // $consumer = new OAuthConsumer($consumer_key, $consumer_secret);
+  // Consumer object built using the OAuth library
+  $consumer = new OAuthConsumer($consumer_key, $consumer_secret);
 
- // // Yelp uses HMAC SHA1 encoding
- // $signature_method = new OAuthSignatureMethod_HMAC_SHA1();
+  // Yelp uses HMAC SHA1 encoding
+  $signature_method = new OAuthSignatureMethod_HMAC_SHA1();
 
- // // Build OAuth Request using the OAuth PHP library. Uses the consumer and token object created above.
- // $oauthrequest = OAuthRequest::from_consumer_and_token($consumer, $token, 'GET', $unsigned_url);
+  // Build OAuth Request using the OAuth PHP library. Uses the consumer and token object created above.
+  $oauthrequest = OAuthRequest::from_consumer_and_token($consumer, $token, 'GET', $unsigned_url);
 
- // // Sign the request
- // $oauthrequest->sign_request($signature_method, $consumer, $token);
+  // Sign the request
+  $oauthrequest->sign_request($signature_method, $consumer, $token);
 
- // // Get the signed URL
- // $signed_url = $oauthrequest->to_url();
+  // Get the signed URL
+  $signed_url = $oauthrequest->to_url();
 
- // // Send Yelp API Call
- // $ch = curl_init($signed_url);
- // curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
- // curl_setopt($ch, CURLOPT_HEADER, 0);
- // $data = curl_exec($ch); // Yelp response
- // curl_close($ch);
+  // Send Yelp API Call
+  $ch = curl_init($signed_url);
+  curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+  curl_setopt($ch, CURLOPT_HEADER, 0);
+  $data = curl_exec($ch); // Yelp response
+  curl_close($ch);
 
- // // Handle Yelp response data
- // $response = json_decode($data);
+  // Handle Yelp response data
+  $response = json_decode($data);
 
- // echo "The chinese restaurant close to you are: </br>";
- // foreach($response->businesses as $business):
-         // //echo "<img border=0 src='".$business->photo_url."'><br/>";
-         // echo $business->mobile_url ."<br/>";
-		 // echo $business->name ."<br/>";
-		 // echo $business->phone ."<br/>";
-         // echo $business->city ."<br/>";
-         // echo $business->state ."<br/>";
-         // echo $business->zip ."<br/>";
+  echo "The chinese restaurant close to you are: </br>";
+  foreach($response->businesses as $business):
+          //echo "<img border=0 src='".$business->photo_url."'><br/>";
+          echo $business->mobile_url ."<br/>";
+		  echo $business->name ."<br/>";
+		  echo $business->phone ."<br/>";
+          echo $business->city ."<br/>";
+          echo $business->state ."<br/>";
+          echo $business->zip ."<br/>";
 
-         // echo "<hr>";
-     // endforeach;
+          echo "<hr>";
+      endforeach;
  ?>
 
 
