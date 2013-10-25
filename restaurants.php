@@ -106,7 +106,6 @@
 		  {
 		    break;
 		  }
-		  echo $i;
           $i++;
 		  
           //echo "<img border=0 src=".$business->photo_url.'""><br/>";
