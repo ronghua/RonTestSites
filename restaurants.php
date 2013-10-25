@@ -101,7 +101,7 @@
   echo "The chinese restaurant close to you are: </br></br>";
   foreach($response->businesses as $business):
           //echo "<img border=0 src=".$business->photo_url.'""><br/>";
-		  echo "<a href=\"". $business->mobile_url . \">";
+		  //echo "<a href=\"". $business->mobile_url . \">";
 		  echo $business->name ."</a><br/>";
 		  echo $business->mobile_url ."<br/>";
 		  echo $business->phone ."<br/>";
