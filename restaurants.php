@@ -42,7 +42,7 @@
 // $HTTP_USER_AGENT and $REMOTE_ADDR are two of many evironment
 // variables in PHP.  Environent variables store information about
 // the user's and server's environment
- print("<br>");
+ print("<br><br>");
  
  print("You are using $_SERVER[HTTP_USER_AGENT]<br>");
  print("Your Internet address is $_SERVER[REMOTE_ADDR]<br>");
@@ -62,8 +62,8 @@
   require_once ('OAuth.php');
 
   // For example, request business with id 'the-waterboy-sacramento'
-  $unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location=Fremont+California";
-  //$unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location="$city"+"$state;
+  //$unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location=Fremont+California";
+  $unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location=".$city."+".$state;
 
  // // Set your keys here
   $consumer_key = "M44itCk1vYxpqJJL_CmjMg";
@@ -102,12 +102,12 @@
   echo "The chinese restaurant close to you are: </br>";
   foreach($response->businesses as $business):
           //echo "<img border=0 src='".$business->photo_url."'><br/>";
-          echo $business->mobile_url ."<br/>";
 		  echo $business->name ."<br/>";
+		  echo $business->mobile_url ."<br/>";
 		  echo $business->phone ."<br/>";
-          echo $business->city ."<br/>";
-          echo $business->state ."<br/>";
-          echo $business->zip ."<br/>";
+          //echo $business->city ."<br/>";
+          //echo $business->state ."<br/>";
+          //echo $business->zip ."<br/>";
 
           echo "<hr>";
       endforeach;
