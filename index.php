@@ -85,7 +85,7 @@
 <hr>
 <UL>
 <LI><h2><a href="restaurants.html">Restaurants Of The Day </a> </h2>
-
+  <UL>
 <?
 // $HTTP_USER_AGENT and $REMOTE_ADDR are two of many evironment
 // variables in PHP.  Environent variables store information about
@@ -147,7 +147,7 @@
           $i++;
 
           //echo "<img border=0 src=".$business->photo_url.'""><br/>";
-		  echo "<UL><LI><strong>" . $business->name ."</strong><br/>";
+		  echo "<LI><strong>" . $business->name ."</strong><br/>";
 		  echo "<a href=\"". $business->mobile_url . "\">";
 		  echo $business->name ."</a><br/>";
 		  echo $business->phone ."<br/>";
@@ -159,17 +159,6 @@
       //endforeach;
    }
  ?>
-
-  <UL>
-  <LI><strong>Chili Palace - Milpitas - CA - 95035</strong>
-  <br>
-  <a href="http://chilipalacemilpitas.com/">Chili Palace</a>
-  <p>
-
-  <LI><strong>Chef Yu/Hunan Gourmet - Sunnyvale - CA - 94086 </a> </strong>
-  <br>
-  <a href="http://www.yelp.com/biz/chef-yu-hunan-gourmet-sunnyvale">Chef Yu</a>
-  <p>
 
   <LI><strong>Mama Mia Restaurant</strong>
   <br>
