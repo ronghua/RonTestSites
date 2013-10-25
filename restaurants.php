@@ -33,6 +33,16 @@
   ga('send', 'pageview');
 
 </script>
+<table>
+<tr>
+<td align=left>
+<img SRC="Logo.png" width=200 height="50" align=LEFT border=0>
+</td>
+<td rowspan="1"> 
+<h1><font color="#008080">RonRite: Decision RIghT, not wRONg</font></h1>
+</td>
+</tr>
+</table>
 
 </head>
 <body text="#000000" bgcolor="#ffffff" link="#0000EE" vlink="#551A8B" alink="#FF0000">
@@ -98,11 +108,11 @@
   // Handle Yelp response data
   $response = json_decode($data);
 
-  echo "The chinese restaurant close to you are: </br></br>";
+  echo "The 10 chinese restaurants close to you are: </br></br>";
   $i=1;
   foreach($response->businesses as $business)
   {
-          if ($i > 5)
+          if ($i > 10)
 		  {
 		    break;
 		  }
@@ -124,14 +134,6 @@
 
 <table CELLSPACING=5 CELLPADDING=0 border=0>
 
-<tr>
-<td align=left>
-<img SRC="Logo.png" width=200 height="50" align=LEFT border=0>
-</td>
-<td rowspan="1"> 
-<h1><font color="#008080">RonRite: Decision RIghT, not wRONg</font></h1>
-</td>
-</tr>
 
 <tr>
 <td COLSPAN="2">
