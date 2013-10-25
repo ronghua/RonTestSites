@@ -38,6 +38,9 @@
 </head>
 <body text="#000000" bgcolor="#ffffff" link="#0000EE" vlink="#551A8B" alink="#FF0000">
 
+<h3>Please checkout our <a href="index.php"> new version </a>, which is still under development </h3>
+
+
 <table CELLSPACING=5 CELLPADDING=0 border=0>
 
 <tr>
@@ -85,80 +88,6 @@
 <hr>
 <UL>
 <LI><h2><a href="restaurants.html">Restaurants Of The Day </a> </h2>
-
-<?
-// $HTTP_USER_AGENT and $REMOTE_ADDR are two of many evironment
-// variables in PHP.  Environent variables store information about
-// the user's and server's environment
- print("<br><br>");
- 
- $ip = $_SERVER['REMOTE_ADDR'];
- $details = file_get_contents("http://ipinfo.io/{$ip}");
- $obj = json_decode($details);
- $city=$obj->{'city'};
- $state=$obj->{'region'};
-
-  // Enter the path that the oauth library is in relation to the php file
-  require_once ('OAuth.php');
-
-  $unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location=".$city."+".$state;
-
- // // Set your keys here
-  $consumer_key = "M44itCk1vYxpqJJL_CmjMg";
-  $consumer_secret = "DRG9GUQiJvlfufXd3p8DlA8zHOA";
-  $token = "_k7AmKTWmBglmPNnLs8xJGNtJBRq4elB";
-  $token_secret = "dwTWziQ2XMMzsJVcAtlpj27CQKI";
-
-  // Token object built using the OAuth library
-  $token = new OAuthToken($token, $token_secret);
-
-  // Consumer object built using the OAuth library
-  $consumer = new OAuthConsumer($consumer_key, $consumer_secret);
-
-  // Yelp uses HMAC SHA1 encoding
-  $signature_method = new OAuthSignatureMethod_HMAC_SHA1();
-
-  // Build OAuth Request using the OAuth PHP library. Uses the consumer and token object created above.
-  $oauthrequest = OAuthRequest::from_consumer_and_token($consumer, $token, 'GET', $unsigned_url);
-
-  // Sign the request
-  $oauthrequest->sign_request($signature_method, $consumer, $token);
-
-  // Get the signed URL
-  $signed_url = $oauthrequest->to_url();
-
-  // Send Yelp API Call
-  $ch = curl_init($signed_url);
-  curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-  curl_setopt($ch, CURLOPT_HEADER, 0);
-  $data = curl_exec($ch); // Yelp response
-  curl_close($ch);
-
-  // Handle Yelp response data
-  $response = json_decode($data);
-
-  $i=1;
-  foreach($response->businesses as $business)
-  {
-          if ($i > 5)
-		  {
-		    break;
-		  }
-          $i++;
-
-          //echo "<img border=0 src=".$business->photo_url.'""><br/>";
-		  echo "<UL><LI><strong>" . $business->name ."</strong><br/>";
-		  echo "<a href=\"". $business->mobile_url . "\">";
-		  echo $business->name ."</a><br/>";
-		  echo $business->phone ."<br/>";
-          //echo $business->city ."<br/>";
-          //echo $business->state ."<br/>";
-          //echo $business->zip ."<br/>";
-
-          echo "<hr>";
-      //endforeach;
-   }
- ?>
 
   <UL>
   <LI><strong>Chili Palace - Milpitas - CA - 95035</strong>
