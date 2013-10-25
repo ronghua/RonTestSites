@@ -50,7 +50,6 @@
  $ip = $_SERVER['REMOTE_ADDR'];
  $details = file_get_contents("http://ipinfo.io/{$ip}");
  //print_r($details);
- print("<br>");
  $obj = json_decode($details);
  $city=$obj->{'city'};
  $state=$obj->{'region'};
@@ -99,10 +98,11 @@
   // Handle Yelp response data
   $response = json_decode($data);
 
-  echo "The chinese restaurant close to you are: </br>";
+  echo "The chinese restaurant close to you are: </br></br>";
   foreach($response->businesses as $business):
-          //echo "<img border=0 src='".$business->photo_url."'><br/>";
-		  echo $business->name ."<br/>";
+          //echo "<img border=0 src=".$business->photo_url.'""><br/>";
+		  echo "<a href=\"". $business->mobile_url . \">";
+		  echo $business->name ."</a><br/>";
 		  echo $business->mobile_url ."<br/>";
 		  echo $business->phone ."<br/>";
           //echo $business->city ."<br/>";
