@@ -62,8 +62,8 @@
   require_once ('OAuth.php');
 
   // For example, request business with id 'the-waterboy-sacramento'
-  //$unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location=Fremont+California";
-  $unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location="$city"+"$state;
+  $unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location=Fremont+California";
+  //$unsigned_url = "http://api.yelp.com/v2/search?term=Chinese+Food&location="$city"+"$state;
 
  // // Set your keys here
   $consumer_key = "M44itCk1vYxpqJJL_CmjMg";
