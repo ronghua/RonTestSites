@@ -100,12 +100,13 @@
 
   echo "The chinese restaurant close to you are: </br></br>";
   $i=1;
-  foreach($response->businesses as $business):
+  foreach($response->businesses as $business)
   {
           if ($i > 5)
 		  {
 		    break;
 		  }
+		  echo $i;
           $i++;
 		  
           //echo "<img border=0 src=".$business->photo_url.'""><br/>";
@@ -117,7 +118,8 @@
           //echo $business->zip ."<br/>";
 
           echo "<hr>";
-      endforeach;
+      //endforeach;
+   }
  ?>
 
 
