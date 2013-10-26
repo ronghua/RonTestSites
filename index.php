@@ -90,7 +90,7 @@
 // $HTTP_USER_AGENT and $REMOTE_ADDR are two of many evironment
 // variables in PHP.  Environent variables store information about
 // the user's and server's environment
- print("<br><br>");
+ print("<br>");
  
  $ip = $_SERVER['REMOTE_ADDR'];
  $details = file_get_contents("http://ipinfo.io/{$ip}");
@@ -160,13 +160,8 @@
    }
  ?>
 
-  <LI><strong>Mama Mia Restaurant</strong>
-  <br>
-  <a href="http://www.mamamias.com/">Mama Mia Itanlian Restaurant</a>
-  <p>
-  
   <LI><a href="restaurants.php">Surprise me!</a>
-  <p>  
+  <br>  
   </UL>
 
 </UL>
@@ -283,7 +278,9 @@
 
 <tr>
 <p>
-    <br>
+   
+
+<center>	
 <!-- hitwebcounter Code START -->
 <font size="5">You are visitor </font><a href="http://www.hitwebcounter.com/" target="_blank">
 <img src="http://hitwebcounter.com/counter/counter.php?page=5111962&style=0036&nbdigits=6&type=page&initCount=0" title="www.hitwebcounter com get the code" Alt="www.hitwebcounter com get the code"   border="0" >
@@ -294,7 +291,7 @@
 <br>
 
 
-<center>    <div id="footer">        RonRite Inc © 2013 All right reserved.     </div> </center>
+   <div id="footer">        RonRite Inc © 2013 All right reserved.     </div> </center>
 
 
 </body>
