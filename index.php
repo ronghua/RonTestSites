@@ -287,11 +287,12 @@
 </a>
 <br/>
 </tr>
-
+</center>
 <br>
 
-
-   <div id="footer">        RonRite Inc © 2013 All right reserved.     </div> </center>
+<center>
+   <div id="footer">        RonRite Inc © 2013 All right reserved.     </div> 
+</center>
 
 
 </body>
