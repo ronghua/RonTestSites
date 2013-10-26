@@ -8,7 +8,7 @@
 <meta name="description" content="RonRite: Ron Make Decision Rite!" />
 <meta charset="utf-8">
 
-    <link rel=stylesheet type="text/css" href="http://www.cis.syr.edu/~wedu/style/research.css">
+    <link rel=stylesheet type="text/css" href="ronrite.css">
    <STYLE TYPE="text/css">
       DIV.withbg {padding: 1em 0; border: solid thin; margin: 1em 0; background: #ddd}
    </STYLE>     

@@ -1,0 +1,8 @@
+
+  H1 { font: bold x-large, Arial, Helvetica; color: #333300}
+  H2 { font: bold large,   Arial, Helvetica; color: #0000FF}
+  H3 { font: large,  Arial, Helvetica; color: #333300}
+  P  { font-style: normal }
+  UL  { list-style-image: url(./files/ul_1e.gif) }
+  UL UL { list-style-image: url(./files/ul_2e.gif) }
+  UL UL UL { list-style-image: url(./files/ul_3e.gif) }

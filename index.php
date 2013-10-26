@@ -8,7 +8,7 @@
 <meta name="description" content="RonRite: Ron Make Decision Rite!" />
 <meta charset="utf-8">
 
-   <link rel=stylesheet type="text/css" href="http://www.cis.syr.edu/~wedu/style/research.css">
+   <link rel=stylesheet type="text/css" href="ronrite.css">
    <STYLE TYPE="text/css">
       DIV.withbg {padding: 1em 0; border: solid thin; margin: 1em 0; background: #ddd}
    </STYLE>     
@@ -45,7 +45,7 @@
 <img SRC="Logo.png" align=LEFT border=0>
 </td>
 <td rowspan="1"> 
-<h1><font color="#008080">RonRite: Decision RIghT, not wRONg</font></h1>
+<h1><font color="#008080">RonRite: Decision RITE</font></h1>
 </td>
 </tr>
 
@@ -84,13 +84,12 @@
 <td COLSPAN="2">
 <hr>
 <UL>
-<LI><h2><a href="restaurants.html">Restaurants Of The Day </a> </h2>
+<LI><h2><a href="restaurants.php">Restaurants Of The Day </a> </h2>
   <UL>
 <?
 // $HTTP_USER_AGENT and $REMOTE_ADDR are two of many evironment
 // variables in PHP.  Environent variables store information about
 // the user's and server's environment
- print("<br>");
  
  $ip = $_SERVER['REMOTE_ADDR'];
  $details = file_get_contents("http://ipinfo.io/{$ip}");
