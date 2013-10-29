@@ -58,16 +58,19 @@
 
   <UL>
 
-  <LI><strong>Barnes & Noble NOOK HD+ 16GB Wi-Fi 9" Slate Tablet BNTV600 Android w/Google Play for $100 </strong>
-  <div class="posttext"><a href="http://www.ebay.com/itm/Barnes-Noble-NOOK-HD-16GB-Wi-Fi-9-Slate-Tablet-BNTV600-Android-w-Google-Play-/390639851939?pt=US_Tablets&hash=item5af3f319a3" target="_blank">Besttopdeals via eBay</a>16GB Barnes & Noble 9" Nook HD+ 1080p Android Tablet (Refurbished) $100 + Free shipping  
+  <LI><strong>16GB Asus Nexus 7 2nd Gen 7" Android 4.3 Tablet $199 + Free Shipping  </strong>
+  <div class="posttext"><a href="http://www.ebay.com/itm/NEW-Google-Nexus-7-inch-FHD-1920X1200-Tablet-16GB-Android-4-3-Jelly-Bean-/360777877185?pt=US_Tablets&hash=item54000986c1" target="_blank">Buy via eBay</a> has 16GB Asus Nexus 7 2nd Gen 7" Android 4.3 Tablet for $199. Shipping is free
 
   <p>
   
-  <LI><strong>RRI Women's Jackets & Vests sale</strong>
-
-  <div class="posttext"><a href="http://www.rei.com/outlet/feature/Deal+Of+The+Week;jsessionid=VhQETnYdTNNfRL-+mVi0mEnh?siteId=cjIsd2x-it3792&URL=http%3A%2F%2Fwww.rei.com%2Foutlet%2Ffeature%2FDeal%2BOf%2BThe%2BWeek&PID=1225267&AID=10456937&cm_mmc=aff_cj-_-1225267-_-10456937&version=V4">REI Women's Jackets & Vests</a>: Mountain Hardwear Windrush Jacket $12.75, Marmot Brentford Jacket $16.75, adidas Hiking 1-Side Fleece Jacket $9.75 & Much More + Free Store Pickup
+  <LI><strong>Canon PIXMA MG6320 Wireless Color Photo Printer with Scanner & Copier (Refurbished w/ 1-Year Warranty) $60 + Free Shipping </strong>
+  <div class="posttext"><a href="http://shop.usa.canon.com/shop/en/catalog/printers-all-in-ones/refurbished-printers/pixma-mg6320-white-refurbished-photo-all-in-one-printer">Canon PIXMA MG6320 </a> Wireless Color Photo Printer with Scanner & Copier (Refurbished w/ 1-Year Warranty) $60 + Free Shipping 
   <p>
 
+  <LI><strong>H&M 50% off Winter Favorites</strong>
+  <div class="posttext"><a href="http://www.hm.com/us/today-w44-us">H&M </a>offers 50% off Winter Favorites thru 10/31. Free shipping on $50+.
+  <p>  
+  
   <LI><strong>Canon EOS 6D 20.2MP Full Frame DSLR Camera (Body Only) + 4% Reward + 16GB SanDisk Ultra Card + Canon Gadget Bag + Oben Monopod & More $1573 + Free Shipping </strong>
   <div class="posttext"><a href="http://www.bhphotovideo.com/c/product/892349-REG/Canon_8035b002_EOS_6D_Digital_Camera.html" target="_blank">B&H Photo Video </a> has Canon EOS 6D 20.2MP Full Frame DSLR Camera (Body Only) + 4% Reward for $1573. Must proceed to checkout for final price. Shipping is free 
 
@@ -174,10 +177,10 @@
 <LI><h2><a href="stock.html">Stock Of The Day </a> </h2>
 
   <UL>
-  <LI><a href="http://finance.yahoo.com/q?s=amzn">AMZN</a>
-  <LI><a href="http://finance.yahoo.com/q?s=msft">MSFT</a>
-  <LI><a href="http://finance.yahoo.com/q?s=amd">AMD</a>
-  <LI><a href="http://finance.yahoo.com/q?s=lnkd">LNKD</a>
+  <LI><a href="http://finance.yahoo.com/q?s=aapl">AAPL</a></LI>
+  <LI><a href="http://finance.yahoo.com/q?s=alu">ALU</a></LI>
+  <LI><a href="http://finance.yahoo.com/q?s=amd">AMD</a></LI>
+  <LI><a href="http://finance.yahoo.com/q?s=lnkd">LNKD</a></LI>
   </UL>
 
 </UL>
@@ -192,26 +195,34 @@
 <LI><h2><a href="news.html">News of the day </a> </h2>
 
   <UL>
-  <LI><strong>On Obamacare </strong>
+  <LI><strong>On Jimmy Kimmel </strong>
   <br>
-  <a href="http://www.chicagotribune.com/news/chi-obama-healthcare-website-20131023,0,1380960.story">Key House Republican presses Google, Microsoft, others for healthcare website fixes</a>
-  <p>
+  <a href="http://entertainment.time.com/2013/10/28/kids-say-the-most-divisive-things-asian-americans-protest-jimmy-kimmel/">
+  Kids Say the Most Divisive Things: Asian Americans Protest Jimmy Kimmel
+  </a><p>
+  
+  <LI><strong>On World News </strong>
+  <br>
+  <a href="http://www.nytimes.com/2013/10/29/world/asia/beijing-restricts-coverage-after-car-explodes-at-forbidden-city.html?_r=0">
+  Beijing Crash May Be Tied to Unrest in Xinjiang
+  </a><p>
   
   <LI><strong>On Apple products</strong>
       <br>
-      <a href="http://betanews.com/2013/10/22/apple-announces-the-thinner-lighter-ipad-air-and-new-ipad-mini/">Apple announces the thinner, lighter iPad Air and new iPad mini</a>
-
-  <p>
+      <a href="http://betanews.com/2013/10/22/apple-announces-the-thinner-lighter-ipad-air-and-new-ipad-mini/">Apple announces the thinner, lighter iPad Air and new iPad mini
+  </a>  <p>
 
   <LI><strong>On Stock market</strong>
       <br>
-      <a href="http://finance.yahoo.com/news/futures-slide-china-cash-fears-113927665.html">Wall Street set to fall on concern over China, Europe banks</a>
-  <p>
+      <a href="http://www.reuters.com/article/2013/10/29/us-usa-economy-idUSBRE99L04G20131029">
+	  U.S. producer prices unexpectedly fall, inflation pressures muted in September
+	  </a><p>
 
   <LI><strong>On Entertainment</strong>
       <br>
-      <a href="http://insidemovies.ew.com/2013/10/22/george-clooney-monuments-men-2014/">George Clooney pushes 'The Monuments Men' to 2014</a>
-  <p>
+      <a href="http://www.cbsnews.com/8301-18560_162-57609330/reinventing-opera-at-the-met/">
+	  Reinventing opera at the Met
+	  </a><p>
   </UL>
 
 </UL>
@@ -227,11 +238,11 @@
 <LI><h2><a href="fun.html">Fun Of The Day</a></h2>
 
   <UL>
-  <LI><a href="http://www.youtube.com/">Enjoy a Youtube video</a>
-  <LI><a href="http://www.fandango.com/">Go watch a movie</a>
-  <LI><a href="http://www.parks.ca.gov/">Go walk in a trail</a>
-  <LI><a href="http://www.themeparkcity.com/USA_index.htm">Go visit a theme park</a>
-  <LI><a href="http://www.si.edu/">Go visit a Smithonian Museums</a>
+  <LI><a href="http://www.youtube.com/">Enjoy a Youtube video</a></LI>
+  <LI><a href="http://www.fandango.com/">Go watch a movie</a></LI>
+  <LI><a href="http://www.parks.ca.gov/">Go walk in a trail</a></LI>
+  <LI><a href="http://www.themeparkcity.com/USA_index.htm">Go visit a theme park</a></LI>
+  <LI><a href="http://www.si.edu/">Go visit a Smithonian Museums</a></LI>
   </UL>
 
 </UL>
@@ -243,18 +254,19 @@
 <td COLSPAN="2">
 <hr>
 <UL>
-<LI><h2><a href="popular.html">Other things you might want to check out</a> </h2>
+<LI><h2><a href="portal.html">Online Portals</a> </h2>
 
   <UL>
-  <LI><a href="http://www.google.com">Google</a>
-  <LI><a href="http://www.facebook.com">Facebook</a>
-  <LI><a href="http://www.linkedin.com">LinkedIn</a>
-  <LI><a href="http://www.pinterest.com">PInterest</a>
-  <LI><a href="http://www.twitter.com">Twitter</a>
-  <LI><a href="http://www.microsoft.com">Microsoft</a>
+  <LI><a href="http://www.google.com">Google</a></LI>
+  <LI><a href="http://www.bing.com">Bing</a></LI>
+  <li><a href="http://www.facebook.com/" target="_blank"> FaceBook</a></li>
+  <li><a href="http://twitter.com/" target="_blank">Twitter</a></li>
+  <li><a href="http://www.yelp.com" target="_blank">Yelp</a> </li>
+  <LI><a href="http://www.linkedin.com">LinkedIn</a></LI>
+  <LI><a href="http://www.pinterest.com">PInterest</a></LI>
   
   <p>
-  <LI><a href="portal.html">Surprise me!</a>
+  <LI><a href="portal.html">Online Portal</a></LI>
   <p>
   </UL>
   <br>
