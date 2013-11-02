@@ -179,7 +179,8 @@
   <UL>
   <LI><a href="http://finance.yahoo.com/q?s=aapl">AAPL</a></LI>
   <LI><a href="http://finance.yahoo.com/q?s=alu">ALU</a></LI>
-  <LI><a href="http://finance.yahoo.com/q?s=amd">AMD</a></LI>
+  <LI><a href="http://finance.yahoo.com/q?s=pbr">PBR</a></LI>
+  <LI><a href="http://finance.yahoo.com/q?s=fb">FB</a></LI>    
   <LI><a href="http://finance.yahoo.com/q?s=lnkd">LNKD</a></LI>
   </UL>
 
@@ -195,34 +196,50 @@
 <LI><h2><a href="news.html">News of the day </a> </h2>
 
   <UL>
-  <LI><strong>On Jimmy Kimmel </strong>
+  <LI><strong>On protecting ABC </strong>
   <br>
+  <a href="http://europe.chinadaily.com.cn/world/2013-11/02/content_17075869.htm">
+  Hundreds in US protest against ABC's offensive skit
+  </a><p>
+  <a href="http://thescoopblog.dallasnews.com/2013/11/protestors-gather-outside-wfaa-channel-8-demand-firing-of-jimmy-kimmel-over-racist-bit.html/?nclick_check=1">
+  Protesters gather outside WFAA-Channel 8, demand firing of Jimmy Kimmel over ‘racist’ bit
+  </a><p>
   <a href="http://entertainment.time.com/2013/10/28/kids-say-the-most-divisive-things-asian-americans-protest-jimmy-kimmel/">
   Kids Say the Most Divisive Things: Asian Americans Protest Jimmy Kimmel
   </a><p>
   
   <LI><strong>On World News </strong>
   <br>
-  <a href="http://www.nytimes.com/2013/10/29/world/asia/beijing-restricts-coverage-after-car-explodes-at-forbidden-city.html?_r=0">
-  Beijing Crash May Be Tied to Unrest in Xinjiang
+  <a href="http://www.businessinsider.com/japan-and-russia-are-expanding-defense-ties-with-eyes-on-china-2013-11">
+  Japan And Russia Are Expanding Defense Ties With Eyes On China
+  </a><p>
+  <a href="http://www.thepeoplesvoice.org/TPV3/Voices.php/2013/11/02/israel-attacks-syria-and-gaza">
+  Israel Attacks Syria and Gaza  
   </a><p>
   
-  <LI><strong>On Apple products</strong>
-      <br>
-      <a href="http://betanews.com/2013/10/22/apple-announces-the-thinner-lighter-ipad-air-and-new-ipad-mini/">Apple announces the thinner, lighter iPad Air and new iPad mini
+  <LI><strong>On tech news</strong>
+  <br>
+  <a href="http://venturebeat.com/2013/11/01/judgement-day-for-android-apple-microsoft-file-lawsuit-against-google-samsung/">
+  Judgment day for Android: Apple, Microsoft file lawsuit against Google, Samsung
   </a>  <p>
+  <br>
+  <a href="http://www.usatoday.com/story/tech/2013/11/01/apple-ipad-air-launch/3343253/">
+  Apple launches the iPad Air
+  </a>  <p>
+  <br>
+  <a href="http://www.informationweek.com/mobility/smart-phones/google-nexus-5-pros-and-cons/240163443">
+  Google Nexus 5: Pros And Cons
+  </a>  <p>    
 
   <LI><strong>On Stock market</strong>
-      <br>
-      <a href="http://www.reuters.com/article/2013/10/29/us-usa-economy-idUSBRE99L04G20131029">
-	  U.S. producer prices unexpectedly fall, inflation pressures muted in September
-	  </a><p>
-
-  <LI><strong>On Entertainment</strong>
-      <br>
-      <a href="http://www.cbsnews.com/8301-18560_162-57609330/reinventing-opera-at-the-met/">
-	  Reinventing opera at the Met
-	  </a><p>
+  <br>
+  <a href="http://www.reuters.com/article/2013/11/01/us-usa-stocks-weekahead-idUSBRE9A012W20131101">
+	Wall St. Week Ahead: Twitter's IPO to provide week's excitement
+	</a><p>
+  <a href="http://www.reuters.com/article/2013/11/01/us-jpmorgan-disclosure-idUSBRE9A00FC20131101">
+	JPMorgan discloses wider probes of hiring, currency trading
+	</a><p>    
+  
   </UL>
 
 </UL>
@@ -230,14 +247,14 @@
 </tr>
 
 
-
 <tr>
 <td COLSPAN="2">
 <hr>
-<UL>
 <LI><h2><a href="fun.html">Fun Of The Day</a></h2>
 
   <UL>
+  <LI><a href="http://www.sfgate.com/food/article/It-s-crabbing-time-in-the-Bay-Area-2298246.php">Crab season 2013 starts today!</a></LI>
+  <LI><a href="http://museums.bankofamerica.com/mobile">Bank of America Museum on US weekend this weekend</a></LI>  
   <LI><a href="http://www.youtube.com/">Enjoy a Youtube video</a></LI>
   <LI><a href="http://www.fandango.com/">Go watch a movie</a></LI>
   <LI><a href="http://www.parks.ca.gov/">Go walk in a trail</a></LI>
@@ -245,15 +262,13 @@
   <LI><a href="http://www.si.edu/">Go visit a Smithonian Museums</a></LI>
   </UL>
 
-</UL>
-</td>
+  </td>
 </tr>
 
 
 <tr>
 <td COLSPAN="2">
 <hr>
-<UL>
 <LI><h2><a href="portal.html">Online Portals</a> </h2>
 
   <UL>
@@ -263,18 +278,11 @@
   <li><a href="http://twitter.com/" target="_blank">Twitter</a></li>
   <li><a href="http://www.yelp.com" target="_blank">Yelp</a> </li>
   <LI><a href="http://www.linkedin.com">LinkedIn</a></LI>
-  <LI><a href="http://www.pinterest.com">PInterest</a></LI>
-  
-  <p>
-  <LI><a href="portal.html">Online Portal</a></LI>
-  <p>
+  <LI><a href="http://www.inrefer.com">InRefer</a></LI>  
   </UL>
-  <br>
   <br>
 
   </UL>
-  
-</UL>
 </td>
 </tr>
 
@@ -302,7 +310,7 @@
 <br>
 
 <center>
-   <div id="footer">        RonRite Inc � 2013 All right reserved.     </div> 
+   <div id="footer">        RonRite Inc © 2013 All right reserved.     </div> 
 </center>
 
 
