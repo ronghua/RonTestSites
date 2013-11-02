@@ -42,7 +42,7 @@
 
 <tr>
 <td align=left>
-<img SRC="Logo.png" align=LEFT border=0>
+<img SRC="images/RonRite_images/RonRite_logo.png" align=LEFT border=0>
 </td>
 <td rowspan="1"> 
 <h1><font color="#008080">RonRite: Decision RITE</font></h1>
@@ -200,45 +200,45 @@
   <br>
   <a href="http://europe.chinadaily.com.cn/world/2013-11/02/content_17075869.htm">
   Hundreds in US protest against ABC's offensive skit
-  </a><p>
+  </a><br>
   <a href="http://thescoopblog.dallasnews.com/2013/11/protestors-gather-outside-wfaa-channel-8-demand-firing-of-jimmy-kimmel-over-racist-bit.html/?nclick_check=1">
   Protesters gather outside WFAA-Channel 8, demand firing of Jimmy Kimmel over ‘racist’ bit
-  </a><p>
+  </a><br>
   <a href="http://entertainment.time.com/2013/10/28/kids-say-the-most-divisive-things-asian-americans-protest-jimmy-kimmel/">
   Kids Say the Most Divisive Things: Asian Americans Protest Jimmy Kimmel
-  </a><p>
+  </a><br>
   
   <LI><strong>On World News </strong>
   <br>
   <a href="http://www.businessinsider.com/japan-and-russia-are-expanding-defense-ties-with-eyes-on-china-2013-11">
   Japan And Russia Are Expanding Defense Ties With Eyes On China
-  </a><p>
+  </a><br>
   <a href="http://www.thepeoplesvoice.org/TPV3/Voices.php/2013/11/02/israel-attacks-syria-and-gaza">
   Israel Attacks Syria and Gaza  
-  </a><p>
+  </a><br>
   
   <LI><strong>On tech news</strong>
   <br>
   <a href="http://venturebeat.com/2013/11/01/judgement-day-for-android-apple-microsoft-file-lawsuit-against-google-samsung/">
   Judgment day for Android: Apple, Microsoft file lawsuit against Google, Samsung
-  </a>  <p>
+  </a>
   <br>
   <a href="http://www.usatoday.com/story/tech/2013/11/01/apple-ipad-air-launch/3343253/">
   Apple launches the iPad Air
-  </a>  <p>
+  </a>
   <br>
   <a href="http://www.informationweek.com/mobility/smart-phones/google-nexus-5-pros-and-cons/240163443">
   Google Nexus 5: Pros And Cons
-  </a>  <p>    
+  </a><br>    
 
   <LI><strong>On Stock market</strong>
   <br>
   <a href="http://www.reuters.com/article/2013/11/01/us-usa-stocks-weekahead-idUSBRE9A012W20131101">
 	Wall St. Week Ahead: Twitter's IPO to provide week's excitement
-	</a><p>
+	</a><br>
   <a href="http://www.reuters.com/article/2013/11/01/us-jpmorgan-disclosure-idUSBRE9A00FC20131101">
 	JPMorgan discloses wider probes of hiring, currency trading
-	</a><p>    
+	</a><p>
   
   </UL>
 
@@ -310,7 +310,7 @@
 <br>
 
 <center>
-   <div id="footer">        RonRite Inc © 2013 All right reserved.     </div> 
+   <div id="footer">        RonRite Inc &copy; 2013 All right reserved.     </div> 
 </center>
 
 
