@@ -38,14 +38,16 @@
 </head>
 <body text="#000000" bgcolor="#ffffff" link="#0000EE" vlink="#551A8B" alink="#FF0000">
 
-<table CELLSPACING=5 CELLPADDING=0 border=0>
-
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td align=left>
-<img SRC="images/RonRite_logo.png" align=LEFT border=0> &amp; &amp;
+<img SRC="images/RonRite_logo.png" align=LEFT border=0>
+</td>
+<td align=left> 
 <h1><font color="#008080">RonRite: Decision RITE</font></h1>
 </td>
 </tr>
+</table>
 
 
 <tr>
