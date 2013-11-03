@@ -8,10 +8,67 @@
 <meta name="description" content="RonRite: Ron Make Decision Rite!" />
 <meta charset="utf-8">
 
-   <link rel=stylesheet type="text/css" href="ronrite.css">
-   <STYLE TYPE="text/css">
+ <link rel=stylesheet type="text/css" href="ronrite.css">
+ <!--<STYLE TYPE="text/css">
       DIV.withbg {padding: 1em 0; border: solid thin; margin: 1em 0; background: #ddd}
-   </STYLE>     
+</STYLE>-->
+   
+<style type="text/css">
+
+.wrap {
+	margin-bottom: 15px;	
+}
+
+.wrap a { color: #000099; text-decoration: none; }
+
+.wrap ul {
+	float: left;
+	width: 582;
+	list-style: none;
+	margin: 0;
+	margin-left: 5px;
+	padding: 0;
+}
+
+.wrap ul li {
+	float: left;
+	font-size: 0.9em;
+	padding: 0 8px;
+	border-right: 1px solid #000;
+}
+
+.wrap ul span {
+	float: left;
+	font-size: 0.9em;
+	padding: 0 15px;
+}
+
+.clear { clear: both; overflow: hidden; } 
+
+.fl {
+	float:left;
+	padding-left:2%;
+      }
+
+#wangzhi {
+	   floafr:left;
+	   width:70%;
+         }
+
+#footer
+{
+    color: #999;
+    padding: 10px 0;
+    text-align: center;
+    line-height: normal;
+    margin: 0;
+    font-size: .9em;
+    padding-top: 10px;
+    position: relative;
+}
+
+</style> 
+   
    
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- RonRite_Banner -->
