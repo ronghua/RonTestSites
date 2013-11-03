@@ -42,9 +42,7 @@
 
 <tr>
 <td align=left>
-<img SRC="images/RonRite_images/RonRite_logo.png" align=LEFT border=0>
-</td>
-<td rowspan="1"> 
+<img SRC="images/RonRite_logo.png" align=LEFT border=0> &amp; &amp;
 <h1><font color="#008080">RonRite: Decision RITE</font></h1>
 </td>
 </tr>
