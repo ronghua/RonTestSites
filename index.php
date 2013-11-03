@@ -206,7 +206,8 @@
   </a><br>
   <a href="http://entertainment.time.com/2013/10/28/kids-say-the-most-divisive-things-asian-americans-protest-jimmy-kimmel/">
   Kids Say the Most Divisive Things: Asian Americans Protest Jimmy Kimmel
-  </a><br>
+  </a>
+  <p>
   
   <LI><strong>On World News </strong>
   <br>
@@ -215,8 +216,9 @@
   </a><br>
   <a href="http://www.thepeoplesvoice.org/TPV3/Voices.php/2013/11/02/israel-attacks-syria-and-gaza">
   Israel Attacks Syria and Gaza  
-  </a><br>
-  
+  </a>
+  <p> 
+    
   <LI><strong>On tech news</strong>
   <br>
   <a href="http://venturebeat.com/2013/11/01/judgement-day-for-android-apple-microsoft-file-lawsuit-against-google-samsung/">
@@ -229,7 +231,8 @@
   <br>
   <a href="http://www.informationweek.com/mobility/smart-phones/google-nexus-5-pros-and-cons/240163443">
   Google Nexus 5: Pros And Cons
-  </a><br>    
+  </a>
+  <p>
 
   <LI><strong>On Stock market</strong>
   <br>
