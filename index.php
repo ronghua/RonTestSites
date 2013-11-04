@@ -112,7 +112,7 @@
 <tr>
 <td COLSPAN="2">
 <hr>
-<LI><h2><a href="deals.html">Deal Of The Day</a></h2>
+<h2><a href="deals.html">Deal Of The Day</a></h2>
 
   <UL>
 
@@ -146,8 +146,8 @@
 <tr>
 <td COLSPAN="2">
 <hr>
-<UL>
-<LI><h2><a href="restaurants.php">Restaurants Of The Day </a> </h2>
+
+<h2><a href="restaurants.php">Restaurants Of The Day </a> </h2>
   <UL>
 <?
 // $HTTP_USER_AGENT and $REMOTE_ADDR are two of many evironment
@@ -226,31 +226,13 @@
   <br>  
   </UL>
 
-</UL>
 </td>
 </tr>
 
 <tr>
 <td COLSPAN="2">
 <hr>
-<LI><h2><a href="stock.html">Stock Of The Day </a> </h2>
-
-  <UL>
-  <LI><a href="http://finance.yahoo.com/q?s=aapl">AAPL</a></LI>
-  <LI><a href="http://finance.yahoo.com/q?s=alu">ALU</a></LI>
-  <LI><a href="http://finance.yahoo.com/q?s=pbr">PBR</a></LI>
-  <LI><a href="http://finance.yahoo.com/q?s=fb">FB</a></LI>    
-  <LI><a href="http://finance.yahoo.com/q?s=lnkd">LNKD</a></LI>
-  </UL>
-
-</td>
-</tr>
-
-
-<tr>
-<td COLSPAN="2">
-<hr>
-<LI><h2><a href="news.html">News of the day </a> </h2>
+<h2><a href="news.html">News of the day </a> </h2>
 
   <UL>
   <LI><strong>On protecting ABC </strong>
@@ -332,9 +314,6 @@
   <UL>
   <LI><a href="http://www.google.com">Google</a></LI>
   <LI><a href="http://www.bing.com">Bing</a></LI>
-  <li><a href="http://www.facebook.com/" target="_blank"> FaceBook</a></li>
-  <li><a href="http://twitter.com/" target="_blank">Twitter</a></li>
-  <li><a href="http://www.yelp.com" target="_blank">Yelp</a> </li>
   <LI><a href="http://www.linkedin.com">LinkedIn</a></LI>
   <LI><a href="http://www.inrefer.com">InRefer</a></LI>  
   </UL>
