@@ -111,7 +111,6 @@
 <tr>
 <td COLSPAN="2">
 <hr>
-<UL>
 <LI><h2><a href="deals.html">Deal Of The Day</a></h2>
 
   <UL>
@@ -137,7 +136,6 @@
   <p>
   </UL>
   
-</UL>
 </td>
 </tr>
 
@@ -231,7 +229,6 @@
 <tr>
 <td COLSPAN="2">
 <hr>
-<UL>
 <LI><h2><a href="stock.html">Stock Of The Day </a> </h2>
 
   <UL>
@@ -242,7 +239,6 @@
   <LI><a href="http://finance.yahoo.com/q?s=lnkd">LNKD</a></LI>
   </UL>
 
-</UL>
 </td>
 </tr>
 
@@ -250,7 +246,6 @@
 <tr>
 <td COLSPAN="2">
 <hr>
-<UL>
 <LI><h2><a href="news.html">News of the day </a> </h2>
 
   <UL>
@@ -269,41 +264,39 @@
   
   <LI><strong>On World News </strong>
   <br>
-  <a href="http://www.businessinsider.com/japan-and-russia-are-expanding-defense-ties-with-eyes-on-china-2013-11">
-  Japan And Russia Are Expanding Defense Ties With Eyes On China
+  <a href="http://www.bloomberg.com/news/2013-11-03/xi-borrows-from-mao-playbook-in-power-play-ahead-of-china-plenum.html">
+  Xi Borrows From Mao Playbook in Power Play Ahead of Plenum
   </a><br>
-  <a href="http://www.thepeoplesvoice.org/TPV3/Voices.php/2013/11/02/israel-attacks-syria-and-gaza">
-  Israel Attacks Syria and Gaza  
+  <a href="http://www.9news.com/news/world/362886/347/Kerry-lauds-Saudi-role-in-Mideast-stability-">
+  U.S. Secretary of State John Kerry lauds Saudi role in Mideast stability 
   </a>
   <p> 
     
   <LI><strong>On tech news</strong>
   <br>
-  <a href="http://venturebeat.com/2013/11/01/judgement-day-for-android-apple-microsoft-file-lawsuit-against-google-samsung/">
-  Judgment day for Android: Apple, Microsoft file lawsuit against Google, Samsung
+  <a href="http://online.wsj.com/news/articles/SB10001424052702304391204579177104151435042">
+  Google's Eric Schmidt Lambasts NSA Over Spying
   </a>
   <br>
-  <a href="http://www.usatoday.com/story/tech/2013/11/01/apple-ipad-air-launch/3343253/">
-  Apple launches the iPad Air
+  <a href="http://mashable.com/2013/11/03/steve-wozniak-apple-should-work-with-google-samsung/">
+  Steve Wozniak: Apple Should Work With Google and Samsung
   </a>
   <br>
-  <a href="http://www.informationweek.com/mobility/smart-phones/google-nexus-5-pros-and-cons/240163443">
-  Google Nexus 5: Pros And Cons
+  <a href="http://www.phonedog.com/2013/11/04/blackberry-to-receive-1-billion-investment-from-fairfax-financial-ceo-thorsten-heins-to-step-down/">
+  BlackBerry to receive $1 billion investment from Fairfax Financial, CEO Thorsten Heins to step down
   </a>
   <p>
 
   <LI><strong>On Stock market</strong>
   <br>
-  <a href="http://www.reuters.com/article/2013/11/01/us-usa-stocks-weekahead-idUSBRE9A012W20131101">
-	Wall St. Week Ahead: Twitter's IPO to provide week's excitement
+  <a href="http://finance.yahoo.com/news/blackberry-calls-off-sale-replace-133129601.html">
+	BlackBerry calls off sale, will replace CEO
 	</a><br>
-  <a href="http://www.reuters.com/article/2013/11/01/us-jpmorgan-disclosure-idUSBRE9A00FC20131101">
-	JPMorgan discloses wider probes of hiring, currency trading
-	</a><p>
-  
+  <a href="http://finance.yahoo.com/blogs/breakout/success-twitter-business-model-questioned-ahead-ipo-122505625.html">
+	Success of Twitter’s Business Model Questioned Ahead of IPO 
+  </a><p>
   </UL>
 
-</UL>
 </td>
 </tr>
 
@@ -311,7 +304,7 @@
 <tr>
 <td COLSPAN="2">
 <hr>
-<LI><h2><a href="fun.html">Fun Of The Day</a></h2>
+<h2><a href="fun.html">Fun Of The Day</a></h2>
 
   <UL>
   <LI><a href="http://www.sfgate.com/food/article/It-s-crabbing-time-in-the-Bay-Area-2298246.php">Crab season 2013 starts today!</a></LI>
@@ -330,7 +323,7 @@
 <tr>
 <td COLSPAN="2">
 <hr>
-<LI><h2><a href="portal.html">Online Portals</a> </h2>
+<h2><a href="portal.html">Online Portals</a> </h2>
 
   <UL>
   <LI><a href="http://www.google.com">Google</a></LI>
