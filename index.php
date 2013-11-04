@@ -105,7 +105,8 @@
 <h1><font color="#008080">RonRite: Decision RITE</font></h1>
 </td>
 </tr>
-</table>  
+</table>
+  
 
 
 <tr>
@@ -115,13 +116,15 @@
 
   <UL>
 
-  <LI><strong>16GB Asus Nexus 7 2nd Gen 7" Android 4.3 Tablet $199 + Free Shipping  </strong>
-  <div class="posttext"><a href="http://www.ebay.com/itm/NEW-Google-Nexus-7-inch-FHD-1920X1200-Tablet-16GB-Android-4-3-Jelly-Bean-/360777877185?pt=US_Tablets&hash=item54000986c1" target="_blank">Buy via eBay</a> has 16GB Asus Nexus 7 2nd Gen 7" Android 4.3 Tablet for $199. Shipping is free
-
-  <p>
+  <LI><strong>Toshiba - Satellite 15.6" Laptop for $229.99</strong>
+  <div class="posttext">
+    <a href="http://www.bestbuy.com/site/satellite-15-6-laptop-4gb-memory-500gb-hard-drive/1689021.p?id=1219060689174&skuId=1689021&st=Toshiba - Satellite 15.6&quote; Laptop - 4GB Memory - 500GB Hard Drive - Satin Black&cp=1&lp=1" target="_blank">
+      Best buy </a> has Toshiba Satellite 15.6" Laptop - 4GB Memory - 500GB Hard Drive - Satin Black for $229.99.
+    <p>
   
   <LI><strong>Canon PIXMA MG6320 Wireless Color Photo Printer with Scanner & Copier (Refurbished w/ 1-Year Warranty) $60 + Free Shipping </strong>
-  <div class="posttext"><a href="http://shop.usa.canon.com/shop/en/catalog/printers-all-in-ones/refurbished-printers/pixma-mg6320-white-refurbished-photo-all-in-one-printer">Canon PIXMA MG6320 </a> Wireless Color Photo Printer with Scanner & Copier (Refurbished w/ 1-Year Warranty) $60 + Free Shipping 
+  <div class="posttext"><a href="http://shop.usa.canon.com/shop/en/catalog/printers-all-in-ones/refurbished-printers/pixma-mg6320-white-refurbished-photo-all-in-one-printer">
+    Canon PIXMA MG6320 </a> Wireless Color Photo Printer with Scanner & Copier (Refurbished w/ 1-Year Warranty) $60 + Free Shipping 
   <p>
 
   <LI><strong>H&M 50% off Winter Favorites</strong>
@@ -129,7 +132,8 @@
   <p>  
   
   <LI><strong>Canon EOS 6D 20.2MP Full Frame DSLR Camera (Body Only) + 4% Reward + 16GB SanDisk Ultra Card + Canon Gadget Bag + Oben Monopod & More $1573 + Free Shipping </strong>
-  <div class="posttext"><a href="http://www.bhphotovideo.com/c/product/892349-REG/Canon_8035b002_EOS_6D_Digital_Camera.html" target="_blank">B&H Photo Video </a> has Canon EOS 6D 20.2MP Full Frame DSLR Camera (Body Only) + 4% Reward for $1573. Must proceed to checkout for final price. Shipping is free 
+  <div class="posttext"><a href="http://www.bhphotovideo.com/c/product/892349-REG/Canon_8035b002_EOS_6D_Digital_Camera.html" target="_blank">
+  B&H Photo Video </a> has Canon EOS 6D 20.2MP Full Frame DSLR Camera (Body Only) + 4% Reward for $1573. Must proceed to checkout for final price. Shipping is free 
 
   <p>
   <LI><a href="surprise.html">Surprise me!</a>
