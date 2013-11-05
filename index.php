@@ -217,7 +217,7 @@
           //echo $business->state ."<br/>";
           //echo $business->zip ."<br/>";
 
-          echo "<hr>";
+          //echo "<hr>";
       //endforeach;
    }
  ?>

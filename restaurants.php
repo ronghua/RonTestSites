@@ -138,20 +138,27 @@
 <tr>
 <td COLSPAN="2">
 <hr>
-<UL>
-<LI><h2>Link to restaurant review website</h2>
+<h2>Link to restaurant review website</h2>
+<br />
+  Back to <a href="hostingstart.html">main</a> page
+  <p>  
 
   <UL>
-  <LI><a href="http://www.yelp.com">Yelp</a>
+    <LI>
+      <a href="http://www.yelp.com">Yelp</a>
+    </LI>
   <p>
 
-  <LI><a href="http://www.urbanspoon.com">Urban Spoon</a>
+    <LI>
+      <a href="http://www.urbanspoon.com">Urban Spoon</a>
+    </LI>
   <p>
 
-  <LI><a href="http://www.zagat.com">Zagat</a>
+    <LI>
+      <a href="http://www.zagat.com">Zagat</a>
+    </LI>
   </UL>
 
-</UL>
 </td>
 </tr>
 <p>
@@ -161,7 +168,7 @@
 <br><br>
 
 <center>
-    <div id="footer">        RonRite Inc © 2013 All right reserved.     </div>
+    <div id="footer">        RonRite Inc Â© 2013 All right reserved.     </div>
 </center>
 
 </body>
